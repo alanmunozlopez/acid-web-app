@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0px" y="0px"
+  viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve">
+  <path d="M50,5C25.2,5,5,25.2,5,50s20.2,45,45,45s45-20.2,45-45S74.8,5,50,5z M50,85c-19.3,0-35-15.7-35-35s15.7-35,35-35  s35,15.7,35,35S69.3,85,50,85z" />
+  <polygon points="45,52.9 35,42.9 27.9,50 45,67.1 72.1,40 65,32.9 " />
+</svg>
